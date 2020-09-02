@@ -10,5 +10,5 @@ Plataforma para marcas emergentes de ropa, diseñadores emprendedores e incluso 
 - Cristian Peña Cuevas 
 - Mario Alberto Chico Sánchez.
 
-### Link
+### Link del drive
 https://drive.google.com/drive/folders/1PQ0xp4T6NCOQD1fjcp2Eqd0rmEocczNy?usp=sharing
