@@ -7,4 +7,5 @@ Plataforma para marcas emergentes de ropa, diseñadores emprendedores e incluso 
 ##Integrantes
 -Jesus Silva Marentes 
 -Enrique Alfonso Pérez Noh 
--Cristian Peña Cuevas -Mario Alberto Chico Sánchez.
+-Cristian Peña Cuevas 
+-Mario Alberto Chico Sánchez.
