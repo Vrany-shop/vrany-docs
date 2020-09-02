@@ -9,3 +9,6 @@ Plataforma para marcas emergentes de ropa, diseñadores emprendedores e incluso 
 - Enrique Alfonso Pérez Noh 
 - Cristian Peña Cuevas 
 - Mario Alberto Chico Sánchez.
+
+### Link
+https://drive.google.com/drive/folders/1PQ0xp4T6NCOQD1fjcp2Eqd0rmEocczNy?usp=sharing
