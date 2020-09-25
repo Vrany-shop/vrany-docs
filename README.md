@@ -11,4 +11,4 @@ Plataforma para marcas emergentes de ropa, diseñadores emprendedores e incluso 
 - Mario Alberto Chico Sánchez.
 
 ### Link del drive
-https://drive.google.com/drive/folders/1PQ0xp4T6NCOQD1fjcp2Eqd0rmEocczNy?usp=sharing
+https://drive.google.com/drive/folders/1k9e5pu_UovbWIek0p0wUYXYxK3awy8Y7?usp=sharing
