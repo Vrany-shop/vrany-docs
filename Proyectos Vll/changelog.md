@@ -1,0 +1,6 @@
+- 21/10/2020
+- Tipo: Added
+- Descripción: Se añadió un documento donde se menciona en lo que se ha estado trabajando de Vrany.
+- Listado de archivos modificados o agregados:
+  - Vrany - Proyectos Vll Avances.docx
+  - changelog.md
